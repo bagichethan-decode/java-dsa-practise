@@ -1,10 +1,12 @@
 public class operators {
     public static void main(String args[])
     {
-        double num1 =15229;
-        double num2 =15240;
+       int a =5;
+       int b =4;
+       int i =9;
+       int z =8;
 
-        double result = (num1/num2);
-        System.out.println(result);
+       boolean result = (a>b && i>z);
+       System.out.println(result);
     }
 }
