@@ -7,7 +7,7 @@ public class loops {
             System.out.println("hi" + i);
             int j = 1;
             while (j <= 3) {
-                System.out.println("bye" + i);
+                System.out.println("bye" + j);
                 j++;
             }
 
@@ -18,6 +18,9 @@ public class loops {
         }
     }
 }
+
+
+
 
 
 
