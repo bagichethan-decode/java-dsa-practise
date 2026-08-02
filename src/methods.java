@@ -33,7 +33,6 @@ public class methods {
             }
 
             public static void findAverage(int[] marks) {
-
                 int total = 0;
 
                 for (int i = 0; i < marks.length; i++) {
@@ -46,11 +45,9 @@ public class methods {
             }
 
             public static void findHighest(int[] marks) {
-
                 int max = marks[0];
 
                 for (int i = 0; i < marks.length; i++) {
-
                     if (marks[i] > max) {
                         max = marks[i];
                     }
