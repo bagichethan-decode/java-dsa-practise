@@ -8,7 +8,7 @@ public class naturalnumbers {
         }
 
         //recursion case
-        return n + sum(n - 1);
+        return n + sum(n - 1);  //VERY IMPORTANT LINE
     }
 
     public static void main(String args[]) {
