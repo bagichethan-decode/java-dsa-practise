@@ -25,3 +25,10 @@ class fibonacci_series {
         sc.close();
     }
 }
+
+
+
+
+
+
+
