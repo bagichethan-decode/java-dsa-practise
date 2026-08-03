@@ -10,9 +10,6 @@ public class string_practise {
         }
         System.out.println(reverse);
 
-
-
-
     }
 }
 
