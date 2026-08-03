@@ -1,4 +1,4 @@
-public class Factirial {
+public class Factorial {
     static int fact(int n) {
 
         if (n == 0) {
