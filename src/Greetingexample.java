@@ -1,4 +1,4 @@
-public class Greetingexample {public class Greetingexample {
+public class Greetingexample {
 
     public static void main(String[] args) {
 
@@ -9,11 +9,11 @@ public class Greetingexample {public class Greetingexample {
     }
 
     public void greet() {
-        System.out.println("Hello!");
+        System.out.println("Hi baby!");
     }
 
     public void greet(String name) {
-        System.out.println("Hello, " + name + "!");
+        System.out.println("Hi baby, " + name + "!");
     }
 }
-}
+
