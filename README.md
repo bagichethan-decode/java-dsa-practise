@@ -15,7 +15,8 @@ I'm currently learning Java with the goal of building a strong foundation for Da
 - Operators
 - Conditional Statements
 - Loops
-- Arrays (In Progress)
+- Arrays
+- Strings
 - More topics will be added as I continue learning.
 
 ## Why this repository?
