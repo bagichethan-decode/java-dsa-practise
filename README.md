@@ -20,6 +20,7 @@ I'm currently learning Java with the goal of building a strong foundation for Da
 - string Builder (Sb)
 - Class
 - Object
+- Constructor 
 - More topics will be added as I continue learning.
 
 ## Why this repository?
