@@ -5,10 +5,10 @@ public class static_keyword {
    static class mobile
     {
 
-        static String name;      //STATIC THE BEAUTY
         //VARIABLE
         String brand;
         int price;
+        static String name;      //STATIC THE BEAUTY
 
 
         // WE CAN USE SHOW() HERE INSTEAD OF ANY OTHER
