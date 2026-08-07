@@ -1,6 +1,7 @@
 public class Student {
 
 //          VARIABLE
+
        String name;
        int age;
        double cgpa;
@@ -13,7 +14,7 @@ public class Student {
                 this.cgpa = cgpa;
             }
 
-            //METHOD
+            //MAIN
 
         public static void main(String args[]) {
 
@@ -22,6 +23,7 @@ public class Student {
             s1.displayDetails();
 
         }
+             //METHOD
 
             void displayDetails(){
                 System.out.println("Name : " + name);
