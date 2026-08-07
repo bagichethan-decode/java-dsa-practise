@@ -2,6 +2,24 @@ public class static_keyword {
 
     //CLASS
 
+   static class mobile
+    {
+
+        static String name;      //STATIC THE BEAUTY
+        //VARIABLE
+        String brand;
+        int price;
+
+
+        // WE CAN USE SHOW() HERE INSTEAD OF ANY OTHER
+        // METHOD
+
+        public void show() {
+            System.out.println(brand + " : " + price + ":" + name );
+        }
+    }
+
+
         public static void main(String  args[]){      //MAIN METHOD
 
             mobile obj1 = new mobile();               //OBJECT
@@ -22,23 +40,6 @@ public class static_keyword {
             obj1.show();                      //METHOD CALL
             obj2.show();                      //METHOD CALL
 
-    }
-
-   static class mobile
-    {
-
-        static String name;      //STATIC THE BEAUTY
-        //VARIABLE
-        String brand;
-        int price;
-
-
-        // WE CAN USE SHOW() HERE INSTEAD OF ANY OTHER
-        // METHOD
-
-        public void show() {
-            System.out.println(brand + " : " + price + ":" + name );
-        }
     }
 
     }
