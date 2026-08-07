@@ -6,7 +6,7 @@ public class practise_class2 {
 
     public static void main(String args[]){
 
-        practise_class2 c1 = new practise_class2();
+        practise_class2 c1 = new practise_class2();  //most imoertant line during the class (you should give the new() here.
 
         c1.type = "Latte";
         c1.size ="Large";
