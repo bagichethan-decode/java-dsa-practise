@@ -21,8 +21,8 @@ public class human {
     public void showdetails(){
         System.out.println("name:"+name);
         System.out.println("age:"+age);
-        }
     }
+}
 
 
 
