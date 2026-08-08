@@ -24,6 +24,7 @@ I'm currently learning Java with the goal of building a strong foundation for Da
 - static keyword
 - encapsulation(human example)
 - comparabel
+- comparator
 - More topics will be added as I continue learning.
 
 ## Why this repository?
