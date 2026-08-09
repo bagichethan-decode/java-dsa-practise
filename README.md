@@ -25,6 +25,7 @@ I'm currently learning Java with the goal of building a strong foundation for Da
 - encapsulation(human example)
 - comparabel
 - comparator
+- ArrayLists(add,set,get,size,remove,loops,comparison)
 - More topics will be added as I continue learning.
 
 ## Why this repository?
