@@ -1,25 +1,17 @@
 import java.util.*;
 
-//CLASS
-class Student implements Comparable<Student> {
+class Student {
 
-//VARIABLE
     String name;
     int age;
 
-//CONSTRUCTOR
     Student(String name, int age) {
         this.name = name;
         this.age = age;
     }
-
-    // METHOD - Sort by age
-    public int compareTo(Student other) {
-        return Integer.compare(this.age, other.age);
-    }
 }
 
-public class ComparableExample {
+public class ComparatorExample_2 {
 
     public static void main(String[] args) {
 
@@ -29,7 +21,10 @@ public class ComparableExample {
         students.add(new Student("Rahul", 18));
         students.add(new Student("Arjun", 22));
 
-        Collections.sort(students);
+        Comparator<Student> byName = (s1, s2) ->
+                s1.name.compareTo(s2.name);
+
+        Collections.sort(students, byName);
 
         for (Student s : students) {
             System.out.println(s.name + " - " + s.age);
