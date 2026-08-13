@@ -32,5 +32,4 @@ public class LinkedList_1 {
             this.next = next;
         }
     }
-
 }
