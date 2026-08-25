@@ -4,7 +4,7 @@
 
 Welcome to my Java practice repository!
 
-I'm currently learning Java with the goal of building a strong foundation for Data Structures & Algorithms (DSA). This repository contains the programs I write while learning different Java concepts and practicing them on my own.
+I'm currently learning Java with the goal of building a strong foundation for Data Structures & Algorithms (DSA). This repository contains the programs I write while learning different Java concepts and practicing them on my own
 
 ## What you'll find here
 
