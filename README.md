@@ -36,7 +36,7 @@ I'm using this repository to:
 - Practice Java consistently.
 - Track my learning progress.
 - Improve my coding skills before starting DSA.
-- Maintain a record of my daily work on GitHub.
+- To Maintain a record of my daily work on GitHub.
 
 ## Tools Used
 
